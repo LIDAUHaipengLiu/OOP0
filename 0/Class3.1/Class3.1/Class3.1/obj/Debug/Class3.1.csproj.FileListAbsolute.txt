@@ -1,0 +1,6 @@
+C:\Users\aihai\Downloads\0\Class3.1\Class3.1\Class3.1\bin\Debug\Class3.1.dll
+C:\Users\aihai\Downloads\0\Class3.1\Class3.1\Class3.1\bin\Debug\Class3.1.pdb
+C:\Users\aihai\Downloads\0\Class3.1\Class3.1\Class3.1\obj\Debug\Class3.1.csprojAssemblyReference.cache
+C:\Users\aihai\Downloads\0\Class3.1\Class3.1\Class3.1\obj\Debug\Class3.1.csproj.CoreCompileInputs.cache
+C:\Users\aihai\Downloads\0\Class3.1\Class3.1\Class3.1\obj\Debug\Class3.1.dll
+C:\Users\aihai\Downloads\0\Class3.1\Class3.1\Class3.1\obj\Debug\Class3.1.pdb

@@ -1,0 +1,5 @@
+bin\Debug\Class3.1.dll
+bin\Debug\Class3.1.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Class3.1.dll
+obj\Debug\Class3.1.pdb

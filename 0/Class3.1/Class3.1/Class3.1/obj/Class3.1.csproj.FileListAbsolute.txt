@@ -1,0 +1,5 @@
+C:\Users\blue\Desktop\面向对象--C#\Demo1\Class3.1\Class3.1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\blue\Desktop\面向对象--C#\Demo1\Class3.1\Class3.1\bin\Debug\Class3.1.dll
+C:\Users\blue\Desktop\面向对象--C#\Demo1\Class3.1\Class3.1\bin\Debug\Class3.1.pdb
+C:\Users\blue\Desktop\面向对象--C#\Demo1\Class3.1\Class3.1\obj\Debug\Class3.1.dll
+C:\Users\blue\Desktop\面向对象--C#\Demo1\Class3.1\Class3.1\obj\Debug\Class3.1.pdb
